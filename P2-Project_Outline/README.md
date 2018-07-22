@@ -1,10 +1,4 @@
 # Project Outline
-For this assignment, you will submit a high-level outline of your project. This can, and likely will, change over time. In particular, your mentor will provide feedback and direction and feedback to help sharpen your ideas. So don't worry if you feel unsure about some aspects of the outline, or if you have to change some things later.
-
-## Assignment Description
-[Project Outline Assignment](https://education.launchcode.org/liftoff/assignments/project-outline/)
-
-## Submission Instructions
 
 ### Overview
 Website that lets delivery drivers leave notes on troublesome locations/customers. When a delivery pops up,  delivery drivers will be able to type in the address, and all notes on the location and customers will appear.  After a delivery, drivers will be able to assign notes to a location. For example, if a house’s address is hard to see, they can write down descriptors that will make the house easy to recognize. They will also be able to leave notes on customers. If one customer tends to like extra butter with their baguettes but doesn’t leave a comment to say so, the driver won’t need to remember, and can just check the website.
