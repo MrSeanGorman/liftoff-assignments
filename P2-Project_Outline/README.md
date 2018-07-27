@@ -5,11 +5,11 @@ Website that lets delivery drivers leave notes on troublesome locations/customer
 
 As one delivery business may have completely different addresses and needs than another, each business will have a “team” that drivers will be assigned to. So business 1’s driver will only see notes from other business 1 drivers, and business 2 drivers will only see business 2 driver notes. The team manager will be able to handle administrative functions like adding drivers to the team or removing them. 
 ### Features
-* User login and team login
-* Team management from an admin
+* User login: Users will be able to create accounts and log in to the app.
 * Notes shared between groups of users (“teams”)
-* Form submission for notes
-* Ability to search a database of addresses and customers.
+* Team administration: A user will be able to be assigned administrative powers that they can use to manage the team they belong to. Admins can assign new users to their team.
+* Form submission for notes: Users will be able to create notes only visible to their team on addresses and customers.
+* Ability to search a database of addresses and customers: Users will be able to search for notes on addresses and customers their team members or themselves have left.
 ### Technologies     
 * Java
 * Springboot
