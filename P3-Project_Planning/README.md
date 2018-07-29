@@ -8,8 +8,13 @@ For this assignment, you'll create some initial plans for your project.
 
 ### Wireframes
 
-(Include at least 3 wireframes here, adding images or files to your the repository as necessary. Format them as a bulleted/unordered list with links to the files.)
+-[login](../liftoff-assignments/P3-Project_Planning/login)
+-[register](../liftoff-assignments/P3-Project_Planning/register)
+-[search](../liftoff-assignments/P3-Project_Planning/search)
+-[location](../liftoff-assignments/P3-Project_Planning/location)
+-[add](../liftoff-assignments/P3-Project_Planning/add)
+-[edit](../liftoff-assignments/P3-Project_Planning/edit)
 
 ### Project Tracker
 
-(Include a link to your public Pivotal Tracker project. Be sure you have user stories added for at least your first 2-week sprint.)
+[Pivotal Tracker](https://www.pivotaltracker.com/projects/2185440)
