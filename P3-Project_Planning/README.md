@@ -8,12 +8,12 @@ For this assignment, you'll create some initial plans for your project.
 
 ### Wireframes
 
--[login](../liftoff-assignments/P3-Project_Planning/login)
--[register](../liftoff-assignments/P3-Project_Planning/register)
--[search](../liftoff-assignments/P3-Project_Planning/search)
--[location](../liftoff-assignments/P3-Project_Planning/location)
--[add](../liftoff-assignments/P3-Project_Planning/add)
--[edit](../liftoff-assignments/P3-Project_Planning/edit)
+- [login](../blob/master/liftoff-assignments/P3-Project_Planning/login)
+- [register](../blob/master/liftoff-assignments/P3-Project_Planning/register)
+- [search](../blob/master/liftoff-assignments/P3-Project_Planning/search)
+- [location](../blob/master/liftoff-assignments/P3-Project_Planning/location)
+- [add](../blob/master/liftoff-assignments/P3-Project_Planning/add)
+- [edit](../blob/master/liftoff-assignments/P3-Project_Planning/edit)
 
 ### Project Tracker
 
