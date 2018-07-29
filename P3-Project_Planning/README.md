@@ -8,12 +8,12 @@ For this assignment, you'll create some initial plans for your project.
 
 ### Wireframes
 
-- [login](login)
-- [register](register)
-- [search](search)
-- [location](location)
-- [add](add)
-- [edit](edit)
+- [login](login.jpg)
+- [register](register.jpg)
+- [search](search.jpg)
+- [location](location.jpg)
+- [add](add.jpg)
+- [edit](edit.jpg)
 
 ### Project Tracker
 
