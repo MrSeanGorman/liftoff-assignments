@@ -5,6 +5,7 @@ This assignment will get you set up and rolling with a basic project. By the end
 [Project Setup Assignment](https://education.launchcode.org/liftoff/assignments/project-setup/)
 
 ## Submission Instructions
+[Delivery Buddy](https://github.com/MrSeanGorman/Delivery-Buddy)
 
 ### Project Repository
 Change this text with a link to your project repository here. Also add a README.md file to your project repository.
